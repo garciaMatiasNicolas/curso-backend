@@ -1,0 +1,1 @@
+[{"title":"Celular iphone 11","price":600,"image":"./image","id":1},{"title":"Celular iphone 13","price":1100,"image":"./image","id":2},{"title":"Celular samsung s22","price":800,"image":"./image","id":3}]

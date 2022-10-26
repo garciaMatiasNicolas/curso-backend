@@ -1,0 +1,29 @@
+{
+  "name": "curso-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garciaMatiasNicolas/curso-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garciaMatiasNicolas/curso-backend/issues"
+  },
+  "homepage": "https://github.com/garciaMatiasNicolas/curso-backend#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "websocket": "^1.0.34"
+  }
+}
